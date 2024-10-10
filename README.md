@@ -1,1 +1,1 @@
-# Azure-OpenAI
+# Azure
